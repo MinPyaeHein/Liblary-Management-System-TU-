@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="lmstu1" match-name="academic_year"/>
+  <table-filter match-catalog="lmstu1" match-name="admin"/>
+  <table-filter match-catalog="lmstu1" match-name="author"/>
+  <table-filter match-catalog="lmstu1" match-name="book"/>
+  <table-filter match-catalog="lmstu1" match-name="book_author"/>
+  <table-filter match-catalog="lmstu1" match-name="book_edition"/>
+  <table-filter match-catalog="lmstu1" match-name="book_group"/>
+  <table-filter match-catalog="lmstu1" match-name="book_shell"/>
+  <table-filter match-catalog="lmstu1" match-name="book_type"/>
+  <table-filter match-catalog="lmstu1" match-name="department"/>
+  <table-filter match-catalog="lmstu1" match-name="gread"/>
+  <table-filter match-catalog="lmstu1" match-name="login"/>
+  <table-filter match-catalog="lmstu1" match-name="major"/>
+  <table-filter match-catalog="lmstu1" match-name="member"/>
+  <table-filter match-catalog="lmstu1" match-name="position"/>
+  <table-filter match-catalog="lmstu1" match-name="rent_return_student"/>
+  <table-filter match-catalog="lmstu1" match-name="rent_return_teacher"/>
+  <table-filter match-catalog="lmstu1" match-name="role"/>
+  <table-filter match-catalog="lmstu1" match-name="search"/>
+  <table-filter match-catalog="lmstu1" match-name="shell"/>
+  <table-filter match-catalog="lmstu1" match-name="student"/>
+  <table-filter match-catalog="lmstu1" match-name="teacher"/>
+  <table-filter match-catalog="lmstu1" match-name="type"/>
+</hibernate-reverse-engineering>
